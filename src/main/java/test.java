@@ -65,7 +65,7 @@ public class test extends BaseTest {
 
 
 
-    @Test(enabled = true, description = "TS0001 ghgh")
+    @Test(enabled = true, description = "TS0001 Mertcan")
     public void TS0001() throws InterruptedException {
             openPage();
             signUp();
